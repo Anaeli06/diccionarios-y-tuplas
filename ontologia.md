@@ -38,4 +38,4 @@ Las relaciones `hijo`, `abuelo`, `hermano` y `ancestro` se obtienen aplicando re
 
 ## Diagrama de la ontología
 
-<img width="1401" height="2473" alt="Diagrama en blanco" src="https://github.com/user-attachments/assets/83d210bd-dcd0-4022-bdc1-9018c4ebbff5" />
+<img width="1401" height="2473" alt="Diagrama en blanco" src="https://github.com/user-attachments/assets/fadb6e63-6025-468a-b65b-459d2e62dd01" />
